@@ -336,6 +336,11 @@
       "text": "winter is coming",
       "intent": "None",
       "entities": []
+    },
+    {
+      "text": "how do i setup a business?",
+      "intent": "BusinessSetup",
+      "entities": []
     }
   ],
   "settings": []
