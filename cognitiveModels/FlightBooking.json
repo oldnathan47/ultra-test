@@ -19,6 +19,9 @@
       "name": "BusinessSetup"
     },
     {
+      "name": "SocialMediaDevelopment"
+    },
+    {
       "name": "None"
     }
   ],
@@ -265,6 +268,26 @@
       ]
     },
     {
+      "text": "how do i get better at instagram?",
+      "intent": "SocialMediaDevelopment",
+      "entities": []
+    },
+    {
+      "text": "how do i get more followers on instagram?",
+      "intent": "SocialMediaDevelopment",
+      "entities": []
+    },
+    {
+      "text": "how do i increase my social media presence",
+      "intent": "SocialMediaDevelopment",
+      "entities": []
+    },
+    {
+      "text": "how do i setup a business?",
+      "intent": "BusinessSetup",
+      "entities": []
+    },
+    {
       "text": "i'd like to rent a car",
       "intent": "None",
       "entities": []
@@ -272,6 +295,21 @@
     {
       "text": "ignore",
       "intent": "Cancel",
+      "entities": []
+    },
+    {
+      "text": "i need help getting my business to work",
+      "intent": "BusinessSetup",
+      "entities": []
+    },
+    {
+      "text": "is my business suppose to solve a problem?",
+      "intent": "BusinessSetup",
+      "entities": []
+    },
+    {
+      "text": "i want more followers on instagram",
+      "intent": "SocialMediaDevelopment",
       "entities": []
     },
     {
@@ -313,6 +351,11 @@
       ]
     },
     {
+      "text": "what makes a business successful?",
+      "intent": "BusinessSetup",
+      "entities": []
+    },
+    {
       "text": "what's the forecast for this friday?",
       "intent": "GetWeather",
       "entities": []
@@ -335,11 +378,6 @@
     {
       "text": "winter is coming",
       "intent": "None",
-      "entities": []
-    },
-    {
-      "text": "how do i setup a business?",
-      "intent": "BusinessSetup",
       "entities": []
     }
   ],
